@@ -67,7 +67,6 @@ video{
 }
 .title_div_left
 {
-     
     padding: 5px;
     float: left;
     width:170px;
@@ -125,4 +124,8 @@ video{
 }
 .switch-div-control{
     display: none;
+}
+.audio-page-number{
+    right: 1px;
+    bottom:56px!important;
 }
